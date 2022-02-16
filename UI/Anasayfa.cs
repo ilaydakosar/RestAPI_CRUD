@@ -26,6 +26,8 @@ namespace UI
             public string adi { get; set; }
         }
 
+        //deneme
+
         //Global Variables:
         private string _apiBaseAddress = "http://www.z36-api.com/";
         //private string _apiBaseAddress = "http://localhost:53865/";
